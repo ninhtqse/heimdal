@@ -1,10 +1,10 @@
 <?php
 
-namespace Optimus\Heimdal\Formatters;
+namespace Ninhtqse\Heimdal\Formatters;
 
 use Throwable;
 use Illuminate\Http\JsonResponse;
-use Optimus\Heimdal\Formatters\BaseFormatter;
+use Ninhtqse\Heimdal\Formatters\BaseFormatter;
 
 class ExceptionFormatter extends BaseFormatter
 {

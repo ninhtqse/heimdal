@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Heimdal\Formatters;
+namespace Ninhtqse\Heimdal\Formatters;
 
 use Throwable;
 use Illuminate\Http\JsonResponse;

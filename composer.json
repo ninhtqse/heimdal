@@ -1,8 +1,8 @@
 {
-    "name": "optimus/heimdal",
+    "name": "ninhtqse/heimdal",
     "autoload": {
         "psr-4": {
-            "Optimus\\Heimdal\\": "src/"
+            "Ninhtqse\\Heimdal\\": "src/"
         }
     },
     "autoload-dev": {

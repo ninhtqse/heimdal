@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Heimdal\Reporters;
+namespace Ninhtqse\Heimdal\Reporters;
 
 use Throwable;
 use Rollbar;

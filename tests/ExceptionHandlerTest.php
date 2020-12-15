@@ -2,8 +2,8 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
-use Optimus\Heimdal\ExceptionHandler;
-use Optimus\Heimdal\Formatters\BaseFormatter;
+use Ninhtqse\Heimdal\ExceptionHandler;
+use Ninhtqse\Heimdal\Formatters\BaseFormatter;
 use Orchestra\Testbench\TestCase;
 use Symfony\Component\HttpKernel\Exception\HttpException;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;

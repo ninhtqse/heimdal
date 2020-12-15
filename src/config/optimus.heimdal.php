@@ -1,7 +1,7 @@
 <?php
 
 use Symfony\Component\HttpKernel\Exception as SymfonyException;
-use Optimus\Heimdal\Formatters;
+use Ninhtqse\Heimdal\Formatters;
 
 return [
     'add_cors_headers' => false,
